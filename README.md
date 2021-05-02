@@ -1,2 +1,2 @@
-# Initial page
+# Lecture 1 - Introduction
 
