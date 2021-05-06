@@ -6,4 +6,5 @@
 * [Lecture 4 - Building Networks](lecture-4-building-networks.md)
 * [Lexture 5 - Bayes](lexture-5-bayes.md)
 * [Lecture 6 - PPInetwork various](lecture-6-ppinetwork-various.md)
+* [Lecture 7 -](lecture-7.md)
 
