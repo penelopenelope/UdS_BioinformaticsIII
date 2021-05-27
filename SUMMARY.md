@@ -8,4 +8,6 @@
 * [Lecture 6 - PPInetwork various](lecture-6-ppinetwork-various.md)
 * [Lecture 7 - Modules](lecture-7.md)
 * [Lecture 8 - Protein-Protein Binding](lecture-8-protein-protein-binding.md)
+* [Lecture 12 - GRN: Boolean Network](lecture-12-grn-boolean-network.md)
+* [Lecture 13 - Reconstruction of GRN: Benchmarking](lecture-13-reconstruction-of-grn-benchmarking.md)
 
