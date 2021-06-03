@@ -1,4 +1,4 @@
-# Lecture 13 - Reconstruction of GRN: Benchmarking
+# Lecture 13 - GRN: Reconstruction
 
 ## Noise Model
 
