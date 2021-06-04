@@ -1,5 +1,5 @@
 ---
-description: 'Mutual Information, Pearson correlation coefficient,'
+description: 'Mutual Information, Pearson correlation coefficient, Minimum Dominating Set'
 ---
 
 # Assignment 7
