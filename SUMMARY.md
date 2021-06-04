@@ -11,4 +11,5 @@
 * [Lecture 12 - GRN: Boolean Network](lecture-12-grn-boolean-network.md)
 * [Lecture 13 - GRN: Reconstruction](lecture-13-reconstruction-of-grn-benchmarking.md)
 * [Lecture 14 - GRN: Gene regulation](lecture-14-grn-gene-regulation.md)
+* [Assignment 7](assignment-7.md)
 
